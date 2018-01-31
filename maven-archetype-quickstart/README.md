@@ -1,6 +1,5 @@
-##maven-archetype-quickstart
+## maven-archetype-quickstart
 
-####描述
 本项目是一个javase的maven项目
 项目的pom中添加了maven-archtype-plugin插件用于生成骨架
 
